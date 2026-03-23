@@ -1,2 +1,2 @@
 # Projects
-Animation Projects
+Digital Art Projects
